@@ -1,0 +1,55 @@
+Date : 2025-11-13 09:10:31
+Directory : c:\Users\Mg Magic\Documents\Programming_Project
+Total : 23 files,  640 codes, 73 comments, 154 blanks, all 867 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         18 |        549 |         73 |        133 |        755 |
+| MS SQL   |          4 |         58 |          0 |          1 |         59 |
+| Markdown |          1 |         33 |          0 |         20 |         53 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                             | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                |         23 |        640 |         73 |        154 |        867 |
+| . (Files)                                                                        |          5 |         91 |          0 |         21 |        112 |
+| UI                                                                               |          1 |         69 |          0 |          1 |         70 |
+| database                                                                         |          2 |         64 |          4 |          6 |         74 |
+| storage                                                                          |          6 |        106 |          8 |         36 |        150 |
+| tests                                                                            |          3 |        185 |         52 |         55 |        292 |
+| user                                                                             |          6 |        125 |          9 |         35 |        169 |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                         | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Mg Magic\Documents\Programming_Project\UI\menu.py                       | Python   |         69 |          0 |          1 |         70 |
+| c:\Users\Mg Magic\Documents\Programming_Project\architecture.md                  | Markdown |         33 |          0 |         20 |         53 |
+| c:\Users\Mg Magic\Documents\Programming_Project\database\__init__.py             | Python   |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\database\config.py               | Python   |         64 |          4 |          5 |         73 |
+| c:\Users\Mg Magic\Documents\Programming_Project\storage.db                       | MS SQL   |         24 |          0 |          0 |         24 |
+| c:\Users\Mg Magic\Documents\Programming_Project\storage\IStorageRepository.py    | Python   |         21 |          0 |          9 |         30 |
+| c:\Users\Mg Magic\Documents\Programming_Project\storage\IStorageService.py       | Python   |         21 |          0 |          9 |         30 |
+| c:\Users\Mg Magic\Documents\Programming_Project\storage\StorageRepository.py     | Python   |         41 |          8 |          8 |         57 |
+| c:\Users\Mg Magic\Documents\Programming_Project\storage\StorageService.py        | Python   |         18 |          0 |          9 |         27 |
+| c:\Users\Mg Magic\Documents\Programming_Project\storage\__init__.py              | Python   |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\storage\dto.py                   | Python   |          5 |          0 |          0 |          5 |
+| c:\Users\Mg Magic\Documents\Programming_Project\test.db                          | MS SQL   |         10 |          0 |          0 |         10 |
+| c:\Users\Mg Magic\Documents\Programming_Project\test_storage_repo.db             | MS SQL   |         13 |          0 |          1 |         14 |
+| c:\Users\Mg Magic\Documents\Programming_Project\test_user_repo.db                | MS SQL   |         11 |          0 |          0 |         11 |
+| c:\Users\Mg Magic\Documents\Programming_Project\tests\__init__.py                | Python   |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\tests\storage_repository_test.py | Python   |         85 |         25 |         24 |        134 |
+| c:\Users\Mg Magic\Documents\Programming_Project\tests\user_repository_test.py    | Python   |        100 |         27 |         30 |        157 |
+| c:\Users\Mg Magic\Documents\Programming_Project\user\IUserRepository.py          | Python   |         25 |          0 |          8 |         33 |
+| c:\Users\Mg Magic\Documents\Programming_Project\user\IUserService.py             | Python   |         25 |          0 |          8 |         33 |
+| c:\Users\Mg Magic\Documents\Programming_Project\user\UserRepository.py           | Python   |         49 |          9 |          9 |         67 |
+| c:\Users\Mg Magic\Documents\Programming_Project\user\UserService.py              | Python   |         21 |          0 |          9 |         30 |
+| c:\Users\Mg Magic\Documents\Programming_Project\user\__init__.py                 | Python   |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\user\dto.py                      | Python   |          5 |          0 |          0 |          5 |
+| Total                                                                            |          |        640 |         73 |        154 |        867 |
++----------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

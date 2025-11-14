@@ -1,0 +1,49 @@
+"filename", "language", "Python", "Markdown", "MS SQL", "comment", "blank", "total"
+"c:\Users\Mg Magic\Documents\Programming_Project\Docs\architecture.md", "Markdown", 0, 45, 0, 0, 24, 69
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Add Item Screen.md", "Markdown", 0, 6, 0, 0, 5, 11
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Delete Item Screen.md", "Markdown", 0, 0, 0, 0, 1, 1
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Main Menu Sign In - Sign Up.md", "Markdown", 0, 25, 0, 0, 8, 33
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Search Item Screen.md", "Markdown", 0, 0, 0, 0, 1, 1
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Storage Main Menu.md", "Markdown", 0, 18, 0, 0, 5, 23
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Update Item Screen.md", "Markdown", 0, 0, 0, 0, 1, 1
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — View All Items Screen.md", "Markdown", 0, 38, 0, 0, 13, 51
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_10.md", "Markdown", 0, 42, 0, 0, 10, 52
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_11.md", "Markdown", 0, 47, 0, 0, 10, 57
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_12.md", "Markdown", 0, 58, 0, 0, 11, 69
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_13.md", "Markdown", 0, 75, 0, 0, 14, 89
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_14.md", "Markdown", 0, 120, 0, 0, 8, 128
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_15.md", "Markdown", 0, 27, 0, 0, 7, 34
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_16.md", "Markdown", 0, 26, 0, 0, 7, 33
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_4.md", "Markdown", 0, 74, 0, 0, 12, 86
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_5.md", "Markdown", 0, 35, 0, 0, 6, 41
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_6.md", "Markdown", 0, 71, 0, 0, 9, 80
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_7.md", "Markdown", 0, 82, 0, 0, 10, 92
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_8.md", "Markdown", 0, 74, 0, 0, 10, 84
+"c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_9.md", "Markdown", 0, 38, 0, 0, 10, 48
+"c:\Users\Mg Magic\Documents\Programming_Project\UI\ScreensEnums.py", "Python", 13, 0, 0, 0, 2, 15
+"c:\Users\Mg Magic\Documents\Programming_Project\UI\menu.py", "Python", 69, 0, 0, 0, 1, 70
+"c:\Users\Mg Magic\Documents\Programming_Project\database\__init__.py", "Python", 0, 0, 0, 0, 1, 1
+"c:\Users\Mg Magic\Documents\Programming_Project\database\config.py", "Python", 64, 0, 0, 4, 5, 73
+"c:\Users\Mg Magic\Documents\Programming_Project\debug_test.db", "MS SQL", 0, 0, 11, 0, 0, 11
+"c:\Users\Mg Magic\Documents\Programming_Project\debug_test.py", "Python", 18, 0, 0, 4, 6, 28
+"c:\Users\Mg Magic\Documents\Programming_Project\main.py", "Python", 0, 0, 0, 0, 1, 1
+"c:\Users\Mg Magic\Documents\Programming_Project\storage.db", "MS SQL", 0, 0, 24, 0, 0, 24
+"c:\Users\Mg Magic\Documents\Programming_Project\storage\IStorageRepository.py", "Python", 21, 0, 0, 0, 9, 30
+"c:\Users\Mg Magic\Documents\Programming_Project\storage\IStorageService.py", "Python", 21, 0, 0, 0, 9, 30
+"c:\Users\Mg Magic\Documents\Programming_Project\storage\StorageRepository.py", "Python", 41, 0, 0, 10, 9, 60
+"c:\Users\Mg Magic\Documents\Programming_Project\storage\StorageService.py", "Python", 18, 0, 0, 0, 9, 27
+"c:\Users\Mg Magic\Documents\Programming_Project\storage\__init__.py", "Python", 0, 0, 0, 0, 1, 1
+"c:\Users\Mg Magic\Documents\Programming_Project\storage\dto.py", "Python", 5, 0, 0, 0, 0, 5
+"c:\Users\Mg Magic\Documents\Programming_Project\test.db", "MS SQL", 0, 0, 10, 0, 0, 10
+"c:\Users\Mg Magic\Documents\Programming_Project\test_storage_repo.db", "MS SQL", 0, 0, 13, 0, 1, 14
+"c:\Users\Mg Magic\Documents\Programming_Project\test_user_repo.db", "MS SQL", 0, 0, 11, 0, 0, 11
+"c:\Users\Mg Magic\Documents\Programming_Project\tests\__init__.py", "Python", 0, 0, 0, 0, 1, 1
+"c:\Users\Mg Magic\Documents\Programming_Project\tests\storage_repository_test.py", "Python", 85, 0, 0, 25, 24, 134
+"c:\Users\Mg Magic\Documents\Programming_Project\tests\user_repository_test.py", "Python", 100, 0, 0, 27, 30, 157
+"c:\Users\Mg Magic\Documents\Programming_Project\user\IUserRepository.py", "Python", 25, 0, 0, 0, 8, 33
+"c:\Users\Mg Magic\Documents\Programming_Project\user\IUserService.py", "Python", 25, 0, 0, 0, 8, 33
+"c:\Users\Mg Magic\Documents\Programming_Project\user\UserRepository.py", "Python", 49, 0, 0, 11, 10, 70
+"c:\Users\Mg Magic\Documents\Programming_Project\user\UserService.py", "Python", 21, 0, 0, 0, 9, 30
+"c:\Users\Mg Magic\Documents\Programming_Project\user\__init__.py", "Python", 0, 0, 0, 0, 1, 1
+"c:\Users\Mg Magic\Documents\Programming_Project\user\dto.py", "Python", 5, 0, 0, 0, 0, 5
+"Total", "-", 580, 901, 69, 81, 327, 1958

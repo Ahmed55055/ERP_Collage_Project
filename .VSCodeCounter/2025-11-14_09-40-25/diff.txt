@@ -1,0 +1,53 @@
+Date : 2025-11-14 09:40:25
+Directory : c:\Users\Mg Magic\Documents\Programming_Project
+Total : 24 files,  881 codes, 0 comments, 165 blanks, all 1046 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Markdown |         22 |        868 |          0 |        162 |      1,030 |
+| Python   |          2 |         13 |          0 |          3 |         16 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                           | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                              |         24 |        881 |          0 |        165 |      1,046 |
+| . (Files)                                                                                      |          2 |        -33 |          0 |        -19 |        -52 |
+| Docs                                                                                           |          1 |         45 |          0 |         24 |         69 |
+| Tasks                                                                                          |         20 |        856 |          0 |        158 |      1,014 |
+| UI                                                                                             |          1 |         13 |          0 |          2 |         15 |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                       | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Mg Magic\Documents\Programming_Project\Docs\architecture.md                           | Markdown |         45 |          0 |         24 |         69 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Add Item Screen.md             | Markdown |          6 |          0 |          5 |         11 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Delete Item Screen.md          | Markdown |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Main Menu Sign In - Sign Up.md | Markdown |         25 |          0 |          8 |         33 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Search Item Screen.md          | Markdown |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Storage Main Menu.md           | Markdown |         18 |          0 |          5 |         23 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Update Item Screen.md          | Markdown |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — View All Items Screen.md       | Markdown |         38 |          0 |         13 |         51 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_10.md                               | Markdown |         42 |          0 |         10 |         52 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_11.md                               | Markdown |         47 |          0 |         10 |         57 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_12.md                               | Markdown |         58 |          0 |         11 |         69 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_13.md                               | Markdown |         75 |          0 |         14 |         89 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_14.md                               | Markdown |        120 |          0 |          8 |        128 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_15.md                               | Markdown |         27 |          0 |          7 |         34 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_16.md                               | Markdown |         26 |          0 |          7 |         33 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_4.md                                | Markdown |         74 |          0 |         12 |         86 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_5.md                                | Markdown |         35 |          0 |          6 |         41 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_6.md                                | Markdown |         71 |          0 |          9 |         80 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_7.md                                | Markdown |         82 |          0 |         10 |         92 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_8.md                                | Markdown |         74 |          0 |         10 |         84 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_9.md                                | Markdown |         38 |          0 |         10 |         48 |
+| c:\Users\Mg Magic\Documents\Programming_Project\UI\ScreensEnums.py                             | Python   |         13 |          0 |          2 |         15 |
+| c:\Users\Mg Magic\Documents\Programming_Project\architecture.md                                | Markdown |        -33 |          0 |        -20 |        -53 |
+| c:\Users\Mg Magic\Documents\Programming_Project\main.py                                        | Python   |          0 |          0 |          1 |          1 |
+| Total                                                                                          |          |        881 |          0 |        165 |      1,046 |
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
