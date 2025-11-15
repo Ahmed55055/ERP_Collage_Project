@@ -17,5 +17,5 @@ class Application(IApplication):
         self.storage_repo = StorageRepository(self.db_config)
         self.storage_service = StorageService(self.storage_repo)
 
-    def run():
-        pass
+    def run(self):
+        print("Start application at main screen")
