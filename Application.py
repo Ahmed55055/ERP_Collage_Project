@@ -1,8 +1,8 @@
-import IApplication
-from storage import IStorageRepository
-from storage import IStorageService
-from storage import StorageRepository
-from storage import StorageService
+from IApplication import IApplication
+from storage.IStorageRepository import IStorageRepository
+from storage.IStorageService import IStorageService
+from storage.StorageRepository import StorageRepository
+from storage.StorageService import StorageService
 from database.config import DatabaseConfig
 
 class Application(IApplication):
