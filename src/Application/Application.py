@@ -1,11 +1,11 @@
-from .IApplication import IApplication
-from src.storage.Repository.IStorageRepository import IStorageRepository
-from src.storage.Service.IStorageService import IStorageService
-from src.storage.Repository.StorageRepository import StorageRepository
-from src.storage.Service.StorageService import StorageService
+from Application.IApplication import IApplication
+from storage.Repository.IStorageRepository import IStorageRepository
+from storage.Service.IStorageService import IStorageService
+from storage.Repository.StorageRepository import StorageRepository
+from storage.Service.StorageService import StorageService
 from database.database import SQLiteDatabase
-from src.database.IDatabase import IDatabase
-from src.database.DatabaseInitializer import DatabaseInitializer
+from database.IDatabase import IDatabase
+from database.DatabaseInitializer import DatabaseInitializer
 
 class Application(IApplication):
     def __init__(self):

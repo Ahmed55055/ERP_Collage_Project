@@ -1,4 +1,4 @@
-from ...database.IDatabase import IDatabase
+from database.IDatabase import IDatabase
 from ..dto import ItemDto
 from .IStorageRepository import IStorageRepository
 
