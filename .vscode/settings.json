@@ -1,9 +1,26 @@
 {
-        "python.testing.unittestArgs": [
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestArgs": [
         "-v",
-        "-s", ".",
-        "-p", "*_test.py"
+        "-s",
+        "tests",
+        "-p",
+        "*_test.py"
     ],
-    "python.testing.unittestEnabled": true,
-    "python.testing.pytestEnabled": false
+    "python.testing.env": {
+        "PYTHONPATH": "${workspaceFolder}/src"
+    },
+    "python.analysis.extraPaths": [
+        "src"
+    ],
+    "python.autoComplete.extraPaths": [
+        "src"
+    ],
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.testing.pytestArgs": [
+        "-v",
+        "--pythonpath", "src",
+        "tests"
+    ]
 }

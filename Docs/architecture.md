@@ -13,12 +13,12 @@ This is a Python-based data management application that uses SQLite for persiste
 ### Data Access Layer (Repositories)
 
 - **StorageRepository** (`storage/StorageRepository.py`): Implements CRUD operations for storage items. Uses the DatabaseConfig to interact with the `items` table.
-- **UserRepository** (`user/UserRepository.py`): Implements CRUD operations for user accounts. Uses the DatabaseConfig to interact with the `users` table.
+- **UserRepository** (`user/Repository/UserRepository.py`): Implements CRUD operations for user accounts. Uses the DatabaseConfig to interact with the `users` table.
 
 ### Business Logic Layer (Services)
 
 - **StorageService** (`storage/StorageService.py`): Provides business logic for storage operations, including validation and coordination of storage-related tasks. Depends on IStorageRepository.
-- **UserService** (`user/UserService.py`): Provides business logic for user management, including authentication and user account operations. Depends on IUserRepository.
+- **UserService** (`user/Service/UserService.py`): Provides business logic for user management, including authentication and user account operations. Depends on IUserRepository.
 
 ### Data Transfer Objects (DTOs)
 
@@ -29,8 +29,8 @@ This is a Python-based data management application that uses SQLite for persiste
 
 - **IStorageRepository** (`storage/IStorageRepository.py`): Abstract base class defining the contract for storage data access operations.
 - **IStorageService** (`storage/IStorageService.py`): Abstract base class defining the contract for storage business logic operations.
-- **IUserRepository** (`user/IUserRepository.py`): Abstract base class defining the contract for user data access operations.
-- **IUserService** (`user/IUserService.py`): Abstract base class defining the contract for user business logic operations.
+- **IUserRepository** (`user/Repository/IUserRepository.py`): Abstract base class defining the contract for user data access operations.
+- **IUserService** (`user/Service/IUserService.py`): Abstract base class defining the contract for user business logic operations.
 
 ### User Interface
 

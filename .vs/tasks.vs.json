@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-storage_repository_test",
+      "appliesTo": "tests/storage_repository_test.py",
+      "type": "launch"
+    }
+  ]
+}
