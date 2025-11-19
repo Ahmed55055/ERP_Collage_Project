@@ -1,0 +1,140 @@
+Date : 2025-11-18 19:44:15
+Directory : c:\Users\Mg Magic\Documents\Programming_Project
+Total : 84 files,  5058 codes, 28 comments, -31 blanks, all 5055 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| MS SQL     |          9 |      5,512 |          0 |         81 |      5,593 |
+| JSON       |          6 |        322 |          0 |          0 |        322 |
+| Python     |         47 |         74 |         28 |         45 |        147 |
+| Ini        |          1 |          5 |          0 |          0 |          5 |
+| Properties |          1 |          1 |          0 |          1 |          2 |
+| Markdown   |         20 |       -856 |          0 |       -158 |     -1,014 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                   | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                      |         84 |      5,058 |         28 |        -31 |      5,055 |
+| . (Files)                                                                                                              |         10 |        -71 |         -4 |         -6 |        -81 |
+| .vs                                                                                                                    |          9 |      5,869 |          0 |         82 |      5,951 |
+| .vs (Files)                                                                                                            |          5 |        564 |          0 |          3 |        567 |
+| .vs\Programming_Project                                                                                                |          2 |      5,005 |          0 |         79 |      5,084 |
+| .vs\Programming_Project.slnx                                                                                           |          2 |        300 |          0 |          0 |        300 |
+| .vs\Programming_Project.slnx\v18                                                                                       |          2 |        300 |          0 |          0 |        300 |
+| .vs\Programming_Project\CopilotIndices                                                                                 |          2 |      5,005 |          0 |         79 |      5,084 |
+| .vs\Programming_Project\CopilotIndices\18.3.95.3864                                                                    |          2 |      5,005 |          0 |         79 |      5,084 |
+| Tasks                                                                                                                  |         20 |       -856 |          0 |       -158 |     -1,014 |
+| UI                                                                                                                     |          2 |        -82 |          0 |         -3 |        -85 |
+| database                                                                                                               |          2 |        -64 |         -4 |         -6 |        -74 |
+| src                                                                                                                    |         27 |        449 |         25 |        100 |        574 |
+| src (Files)                                                                                                            |          3 |         29 |          0 |          4 |         33 |
+| src\Application                                                                                                        |          3 |         30 |          0 |          7 |         37 |
+| src\UI                                                                                                                 |          3 |         82 |          0 |          4 |         86 |
+| src\database                                                                                                           |          4 |         98 |          6 |         12 |        116 |
+| src\storage                                                                                                            |          8 |         96 |          9 |         38 |        143 |
+| src\storage (Files)                                                                                                    |          2 |          5 |          0 |          1 |          6 |
+| src\storage\Repository                                                                                                 |          3 |         52 |          9 |         18 |         79 |
+| src\storage\Service                                                                                                    |          3 |         39 |          0 |         19 |         58 |
+| src\user                                                                                                               |          6 |        114 |         10 |         35 |        159 |
+| src\user (Files)                                                                                                       |          2 |          5 |          0 |          1 |          6 |
+| src\user\Repository                                                                                                    |          2 |         63 |         10 |         17 |         90 |
+| src\user\Service                                                                                                       |          2 |         46 |          0 |         17 |         63 |
+| storage                                                                                                                |          6 |       -106 |        -10 |        -37 |       -153 |
+| tests                                                                                                                  |          2 |         44 |         32 |         33 |        109 |
+| user                                                                                                                   |          6 |       -125 |        -11 |        -36 |       -172 |
++------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                               | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Mg Magic\Documents\Programming_Project\.env                                                                   | Properties |          1 |          0 |          1 |          2 |
+| c:\Users\Mg Magic\Documents\Programming_Project\.vs\Programming_Project.slnx\v18\DocumentLayout.backup.json            | JSON       |        133 |          0 |          0 |        133 |
+| c:\Users\Mg Magic\Documents\Programming_Project\.vs\Programming_Project.slnx\v18\DocumentLayout.json                   | JSON       |        167 |          0 |          0 |        167 |
+| c:\Users\Mg Magic\Documents\Programming_Project\.vs\Programming_Project\CopilotIndices\18.3.95.3864\CodeChunks.db      | MS SQL     |      4,810 |          0 |         76 |      4,886 |
+| c:\Users\Mg Magic\Documents\Programming_Project\.vs\Programming_Project\CopilotIndices\18.3.95.3864\SemanticSymbols.db | MS SQL     |        195 |          0 |          3 |        198 |
+| c:\Users\Mg Magic\Documents\Programming_Project\.vs\ProjectSettings.json                                               | JSON       |          3 |          0 |          0 |          3 |
+| c:\Users\Mg Magic\Documents\Programming_Project\.vs\PythonSettings.json                                                | JSON       |          3 |          0 |          0 |          3 |
+| c:\Users\Mg Magic\Documents\Programming_Project\.vs\VSWorkspaceState.json                                              | JSON       |          6 |          0 |          0 |          6 |
+| c:\Users\Mg Magic\Documents\Programming_Project\.vs\slnx.sqlite                                                        | MS SQL     |        542 |          0 |          3 |        545 |
+| c:\Users\Mg Magic\Documents\Programming_Project\.vs\tasks.vs.json                                                      | JSON       |         10 |          0 |          0 |         10 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Add Item Screen.md                                     | Markdown   |         -6 |          0 |         -5 |        -11 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Delete Item Screen.md                                  | Markdown   |          0 |          0 |         -1 |         -1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Main Menu Sign In - Sign Up.md                         | Markdown   |        -25 |          0 |         -8 |        -33 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Search Item Screen.md                                  | Markdown   |          0 |          0 |         -1 |         -1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Storage Main Menu.md                                   | Markdown   |        -18 |          0 |         -5 |        -23 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — Update Item Screen.md                                  | Markdown   |          0 |          0 |         -1 |         -1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\UI Task — View All Items Screen.md                               | Markdown   |        -38 |          0 |        -13 |        -51 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_10.md                                                       | Markdown   |        -42 |          0 |        -10 |        -52 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_11.md                                                       | Markdown   |        -47 |          0 |        -10 |        -57 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_12.md                                                       | Markdown   |        -58 |          0 |        -11 |        -69 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_13.md                                                       | Markdown   |        -75 |          0 |        -14 |        -89 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_14.md                                                       | Markdown   |       -120 |          0 |         -8 |       -128 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_15.md                                                       | Markdown   |        -27 |          0 |         -7 |        -34 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_16.md                                                       | Markdown   |        -26 |          0 |         -7 |        -33 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_4.md                                                        | Markdown   |        -74 |          0 |        -12 |        -86 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_5.md                                                        | Markdown   |        -35 |          0 |         -6 |        -41 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_6.md                                                        | Markdown   |        -71 |          0 |         -9 |        -80 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_7.md                                                        | Markdown   |        -82 |          0 |        -10 |        -92 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_8.md                                                        | Markdown   |        -74 |          0 |        -10 |        -84 |
+| c:\Users\Mg Magic\Documents\Programming_Project\Tasks\task_9.md                                                        | Markdown   |        -38 |          0 |        -10 |        -48 |
+| c:\Users\Mg Magic\Documents\Programming_Project\UI\ScreensEnums.py                                                     | Python     |        -13 |          0 |         -2 |        -15 |
+| c:\Users\Mg Magic\Documents\Programming_Project\UI\menu.py                                                             | Python     |        -69 |          0 |         -1 |        -70 |
+| c:\Users\Mg Magic\Documents\Programming_Project\__init__.py                                                            | Python     |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\database\__init__.py                                                   | Python     |          0 |          0 |         -1 |         -1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\database\config.py                                                     | Python     |        -64 |         -4 |         -5 |        -73 |
+| c:\Users\Mg Magic\Documents\Programming_Project\debug_test.db                                                          | MS SQL     |        -11 |          0 |          0 |        -11 |
+| c:\Users\Mg Magic\Documents\Programming_Project\debug_test.py                                                          | Python     |        -18 |         -4 |         -6 |        -28 |
+| c:\Users\Mg Magic\Documents\Programming_Project\main.py                                                                | Python     |          0 |          0 |         -1 |         -1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\pytest.ini                                                             | Ini        |          5 |          0 |          0 |          5 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\Application\Application.py                                         | Python     |         22 |          0 |          3 |         25 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\Application\IApplication.py                                        | Python     |          8 |          0 |          3 |         11 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\Application\__init__.py                                            | Python     |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\UI\ScreensEnums.py                                                 | Python     |         13 |          0 |          2 |         15 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\UI\__init__.py                                                     | Python     |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\UI\menu.py                                                         | Python     |         69 |          0 |          1 |         70 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\__init__.py                                                        | Python     |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\database\DatabaseInitializer.py                                    | Python     |         22 |          2 |          3 |         27 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\database\IDatabase.py                                              | Python     |         11 |          0 |          3 |         14 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\database\__init__.py                                               | Python     |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\database\database.py                                               | Python     |         65 |          4 |          5 |         74 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\main.py                                                            | Python     |          5 |          0 |          3 |          8 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\storage.db                                                         | MS SQL     |         24 |          0 |          0 |         24 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\storage\Repository\IStorageRepository.py                           | Python     |         21 |          0 |          9 |         30 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\storage\Repository\StorageRepository.py                            | Python     |         31 |          9 |          8 |         48 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\storage\Repository\__init__.py                                     | Python     |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\storage\Service\IStorageService.py                                 | Python     |         21 |          0 |          9 |         30 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\storage\Service\StorageService.py                                  | Python     |         18 |          0 |          9 |         27 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\storage\Service\__init__.py                                        | Python     |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\storage\__init__.py                                                | Python     |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\storage\dto.py                                                     | Python     |          5 |          0 |          0 |          5 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\user\Repository\IUserRepository.py                                 | Python     |         25 |          0 |          8 |         33 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\user\Repository\UserRepository.py                                  | Python     |         38 |         10 |          9 |         57 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\user\Service\IUserService.py                                       | Python     |         25 |          0 |          8 |         33 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\user\Service\UserService.py                                        | Python     |         21 |          0 |          9 |         30 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\user\__init__.py                                                   | Python     |          0 |          0 |          1 |          1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\src\user\dto.py                                                        | Python     |          5 |          0 |          0 |          5 |
+| c:\Users\Mg Magic\Documents\Programming_Project\storage.db                                                             | MS SQL     |        -14 |          0 |          0 |        -14 |
+| c:\Users\Mg Magic\Documents\Programming_Project\storage\IStorageRepository.py                                          | Python     |        -21 |          0 |         -9 |        -30 |
+| c:\Users\Mg Magic\Documents\Programming_Project\storage\IStorageService.py                                             | Python     |        -21 |          0 |         -9 |        -30 |
+| c:\Users\Mg Magic\Documents\Programming_Project\storage\StorageRepository.py                                           | Python     |        -41 |        -10 |         -9 |        -60 |
+| c:\Users\Mg Magic\Documents\Programming_Project\storage\StorageService.py                                              | Python     |        -18 |          0 |         -9 |        -27 |
+| c:\Users\Mg Magic\Documents\Programming_Project\storage\__init__.py                                                    | Python     |          0 |          0 |         -1 |         -1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\storage\dto.py                                                         | Python     |         -5 |          0 |          0 |         -5 |
+| c:\Users\Mg Magic\Documents\Programming_Project\test.db                                                                | MS SQL     |        -10 |          0 |          0 |        -10 |
+| c:\Users\Mg Magic\Documents\Programming_Project\test_storage_repo.db                                                   | MS SQL     |        -13 |          0 |         -1 |        -14 |
+| c:\Users\Mg Magic\Documents\Programming_Project\test_user_repo.db                                                      | MS SQL     |        -11 |          0 |          0 |        -11 |
+| c:\Users\Mg Magic\Documents\Programming_Project\tests\storage_repository_test.py                                       | Python     |         19 |         12 |         14 |         45 |
+| c:\Users\Mg Magic\Documents\Programming_Project\tests\user_repository_test.py                                          | Python     |         25 |         20 |         19 |         64 |
+| c:\Users\Mg Magic\Documents\Programming_Project\user\IUserRepository.py                                                | Python     |        -25 |          0 |         -8 |        -33 |
+| c:\Users\Mg Magic\Documents\Programming_Project\user\IUserService.py                                                   | Python     |        -25 |          0 |         -8 |        -33 |
+| c:\Users\Mg Magic\Documents\Programming_Project\user\UserRepository.py                                                 | Python     |        -49 |        -11 |        -10 |        -70 |
+| c:\Users\Mg Magic\Documents\Programming_Project\user\UserService.py                                                    | Python     |        -21 |          0 |         -9 |        -30 |
+| c:\Users\Mg Magic\Documents\Programming_Project\user\__init__.py                                                       | Python     |          0 |          0 |         -1 |         -1 |
+| c:\Users\Mg Magic\Documents\Programming_Project\user\dto.py                                                            | Python     |         -5 |          0 |          0 |         -5 |
+| Total                                                                                                                  |            |      5,058 |         28 |        -31 |      5,055 |
++------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

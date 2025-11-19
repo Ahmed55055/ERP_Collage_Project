@@ -8,6 +8,9 @@ class StorageService(IStorageService):
     def __init__(self, repo: IStorageRepository):
         self.repo = repo
 
+    def _validate_item(self, item_dto) -> bool:
+        pass
+
     def create(self, item_dto) -> bool:
         pass
 
